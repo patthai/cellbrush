@@ -3,7 +3,7 @@ by: **Pat Pataranutaporn**
 http://www.patthai.org
 
 
-<img src='http://patthai.org/images/FUI/Tracky_flow.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://patthai.org/images/interactive_art/grid/cellbrush.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
@@ -25,7 +25,7 @@ Tracky is a software that connect the human gesture to computer controlling syst
 
 The MIT License (MIT)
 
-Copyright (c) [2014] [Tracky flow]
+Copyright (c) [2014] [cell brush]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
